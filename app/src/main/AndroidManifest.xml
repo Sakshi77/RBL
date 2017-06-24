@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".signup" />
-        <activity android:name=".front"></activity>
+        <activity android:name=".front" />
+        <activity android:name=".accountsummary"></activity>
     </application>
 
 </manifest>
