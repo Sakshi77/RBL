@@ -18,7 +18,9 @@
         </activity>
         <activity android:name=".signup" />
         <activity android:name=".front" />
-        <activity android:name=".accountsummary"></activity>
+        <activity android:name=".accountsummary" />
+        <activity android:name=".viewaccountstate" />
+        <activity android:name=".viewcreditscore1"></activity>
     </application>
 
 </manifest>
